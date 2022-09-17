@@ -1,0 +1,854 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2091760123698282472
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100000, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100010, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100012, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100014, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100016, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100018, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100020, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100022, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100024, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100026, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100030, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100032, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100034, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100036, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100038, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100040, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100042, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100044, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100046, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100048, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100050, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100052, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100054, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100056, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100058, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100060, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100062, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100064, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100066, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100068, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100070, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100072, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100074, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100076, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100078, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100080, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100082, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -44.34472
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.999
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.4079206
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: ada255e46d950274e8f62c9de190d0b7, type: 2}
+    - target: {fileID: 9500000, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_CullingMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 13700000, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_UpdateWhenOffscreen
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 13700004, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+--- !u!1 &2091760123698313556 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100028, guid: f7822008d70f2b949b933099e43dd3df, type: 3}
+  m_PrefabInstance: {fileID: 2091760123698282472}
+  m_PrefabAsset: {fileID: 0}
+--- !u!54 &242582229
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2091760123698313556}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 112
+  m_CollisionDetection: 0
+--- !u!136 &242582225
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2091760123698313556}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.2
+  m_Height: 1.3
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.66, z: 0}
+--- !u!114 &242582226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2091760123698313556}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 778c253a18685534db5fdf62750395c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  joystick: {fileID: 0}
+  showMainRaysOnly: 0
+  stayUpright: 1
+  inheritScale: 0
+  onLedgeHeight: 0
+  ledgeAngleLimit: 25
+  distanceToPushOffOfLedgeAfterLettingGo: 0.5
+  maxGroundedDistance: 0.2
+  climbingDetectors:
+    pullUpSpeed: 4
+    allowClimbingOverLedgesIfInAir: 1
+    allowClimbingOverLedgesIfOnGround: 1
+    automaticallyClimbOverGroundLedgeIfColliding: 1
+    climbOverLedgesWithoutLettingGoOfJoystickFirst: 1
+    showClimbDetectionRays: 1
+    spaceAboveHeadNeededToGrabOn: 0
+    spaceAboveHeadNeededToClimbUp: 0
+    rodHoldingLedgeDetectorHeight: 0
+    rodHoldingLedgeDetectorForward: 0
+    ledgeDetectorHeight: 0
+    ledgeDetectorForward: 0
+    topOfLedgeSurfaceDetectorHeight: 0
+    showSurfaceLevelRays: 0
+    maxSurfaceLevelHeight: 0
+    underPlatformMaxSurfaceLevelHeight: 0
+    showNonLedgeSurfaceDetectionRays: 0
+    nonLedgeSurfaceDetectorsHeight: 0
+    nonLedgeSurfaceDetectorsForward: 0
+  movingDetectors:
+    moveSpeed: 3
+    rotationSpeed: 8
+    moveInBursts: 1
+    burstLength: 1
+    showMovingRays: 1
+    movingDetectorsHeight: 0
+    firstFrontWallDetectorsForward: 0
+    firstFrontWallDetectorsWidth: 0
+    firstBackWallDetectorsForward: 0
+    firstBackWallDetectorsWidth: 0
+    secondFrontWallDetectorsForward: 0
+    secondFrontWallDetectorsWidth: 0
+    secondBackWallDetectorsForward: 0
+    secondBackWallDetectorsWidth: 0
+    frontTopOfLedgeSurfaceDetectorsForward: 0
+    backTopOfLedgeSurfaceDetectorsForward: 0
+    showGroundRays: 1
+    minDistFromGroundHeight: 0
+    minDistFromGroundWidth: 0
+    sideScrolling:
+      lockMovementOnZAxis: 0
+      zValue: 0
+      lockMovementOnXAxis: 0
+      xValue: 0
+  blockingDetectors:
+    showRotationBlockingRays: 0
+    preventRotatingToSideWallHeight: 0
+    preventRotatingToSideWallWidth: 0
+    firstAllowRotatingIfLedgeHitWidth: 0
+    secondAllowRotatingIfLedgeHitWidth: 0
+    showMovementBlockingRays: 0
+    midSideWallDetectorsForward: 0
+    midSideWallDetectorsWidth: 0
+    sideWallDetectorsWidth: 0
+    frontSideBlockageDetectorsHeight: 0
+    frontSideBlockageDetectorsWidth: 0
+    frontSideBlockageDetectorsForward: 0
+    aboveHeadPlatformDetectorsHeight: 0
+    aboveHeadPlatformDetectorsForward: 0
+    showAngleDetectionRays: 0
+    ledgeAngleDetectorsHeight: 0
+    ledgeAngleDetectorsWidth: 0
+  ledgeSwitchingDetectors:
+    allowLedgeSwitching: 1
+    switchJumpHeight: 5
+    switchJumpSpeed: 4
+    inputPercentageNeededToSwitch: 95
+    showFirstLedgeSwitchingRays: 0
+    firstSurfaceDetectorWidth: 0
+    firstNoSurfaceDetectorLength: 0
+    firstNoSurfaceDetectorWidth: 0
+    showSecondLedgeSwitchingRays: 0
+    secondSurfaceDetectorWidth: 0
+    secondNoSurfaceDetectorLength: 0
+    secondNoSurfaceDetectorWidth: 0
+    showThirdLedgeSwitchingRays: 0
+    thirdSurfaceDetectorWidth: 0
+    thirdNoSurfaceDetectorLength: 0
+    thirdNoSurfaceDetectorWidth: 0
+    surfaceDetectorForward: 0
+    surfaceDetectorHeight: 0
+    surfaceDetectorLength: 0
+    surfaceDetectorWidth: 0
+    switchPointDetectorWidth: 0
+    noSurfaceDetectorHeight: 0
+    noSurfaceDetectorWidth: 0
+    wallInFrontDetectorUpAmount: 0
+    wallInFrontDetectorHeight: 0
+  walkingOffLedgeDetectors:
+    allowGrabbingBackOnToLedges: 0
+    showGrabBackOnToLedgesRays: 0
+    spaceInFrontNeededToGrabBackOn: 0
+    spaceBelowNeededToGrabBackOnHeight: 0
+    spaceBelowNeededToGrabBackOnForward: 0
+    firstSideLedgeDetectorsHeight: 0
+    secondSideLedgeDetectorsHeight: 0
+    thirdSideLedgeDetectorsHeight: 0
+    sideLedgeDetectorsWidth: 0
+    sideLedgeDetectorsLength: 0
+    grabBackOnLocationHeight: 0
+    grabBackOnLocationWidth: 0
+    grabBackOnLocationForward: 0
+    allowJumpingOffLedges: 0
+    showJumpOffLedgesRays: 0
+    spaceBelowNeededToJump: 0
+    jumpHeight: 7
+    jumpDistance: 2
+    jumpDecelerationRate: 4
+    useGravity: 0
+    gravity: 20
+    inputPercentageNeededToJump: 95
+    disableScriptsWhileJumping: 0
+    jumpLandingEffect: {fileID: 135866, guid: f81bc839505fa474a8eb01986fbb8213, type: 3}
+  overallPositionOfDetectors:
+    upDistance: 0
+    forwardDistance: 0
+    sideDistance: 0
+  overallScaleOfDetectors:
+    length: 1
+    width: 1
+    height: 1
+  scriptsToEnableOnGrab: []
+  scriptsToDisableOnGrab:
+  - PlayerController
+  currentStatesOfVariables:
+    ledgeGrabPossible: 0
+    climbUpPossible: 0
+    leftMovementPossible: 0
+    rightMovementPossible: 0
+    currentlyOnLedge: 0
+    grounded: 0
+  grabbedOn: 0
+  canGrabBackOn: 1
+  oldParent: {fileID: 0}
+  emptyObject: {fileID: 0}
+  turnBack: 0
+  back2: 0
+  backHit: {x: 0, y: 0, z: 0}
+  dustEffect: {fileID: 135866, guid: f81bc839505fa474a8eb01986fbb8213, type: 3}
+  collisionLayers:
+    serializedVersion: 2
+    m_Bits: 4294967275
+--- !u!114 &242582227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2091760123698313556}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3060a0db2d4a38c409b482e337addb66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  joystick: {fileID: 0}
+  playerCamera: {fileID: 0}
+  gravity: 20
+  slopeLimit: 25
+  grounded:
+    showGroundDetectionRays: 0
+    maxGroundedHeight: 0.2
+    maxGroundedRadius: 0.2
+    maxGroundedDistance: 0.2
+    currentlyGrounded: 0
+  movement:
+    forwardSpeed: 6
+    sideSpeed: 4
+    backSpeed: 5
+    running:
+      useRunningButton: 0
+      runInputButton: Fire3
+      runSpeedMultiple: 1.3
+    crouching:
+      allowCrouching: 1
+      crouchMovementSpeedMultiple: 0.4
+      crouchColliderHeightMultiple: 0.7
+    midAirMovementSpeedMultiple: 1.1
+    acceleration: 50
+    movementFriction: 0
+    rotationSpeed: 8
+    midAirRotationSpeedMultiple: 1
+    slopeSlideSpeed: 1
+    slideFriction: 4
+    hardStickToGround: 0
+    sideScrolling:
+      movementSpeedIfAxisLocked: 6
+      lockMovementOnZAxis: 0
+      zValue: 0
+      lockMovementOnXAxis: 0
+      xValue: 0
+      flipAxisRotation: 0
+      rotateInwards: 1
+    firstPerson:
+      useCameraControllerSettingsIfPossible: 1
+      alwaysUseFirstPerson: 0
+      switchToFirstPersonIfInputButtonPressed: 0
+      firstPersonInputButton: Fire3
+      startOffInFirstPersonModeForSwitching: 0
+      walkBackwardsWhenDownKeyIsPressed: 1
+      onlyRotateWithCamera: 1
+  jumping:
+    numberAndHeightOfJumps:
+    - 6
+    - 8
+    - 12
+    timeLimitBetweenJumps: 1
+    allowJumpWhenSlidingFacingUphill: 0
+    allowJumpWhenSlidingFacingDownhill: 1
+    doNotIncreaseJumpNumberWhenSliding: 1
+    jumpLandingEffect: {fileID: 135866, guid: f81bc839505fa474a8eb01986fbb8213, type: 3}
+    allowDoubleJump: 0
+    doubleJumpPerformableOutOfWallJump: 0
+    doubleJumpPerformableIfInMidAirInGeneral: 0
+    doubleJumpHeight: 7
+    doubleJumpEffect: {fileID: 101696, guid: 2fd70f5a7d9c91a48abef6c31ec2253e, type: 3}
+    maxFallingSpeed: 90
+  wallJumping:
+    allowWallJumping: 0
+    minimumWallAngle: 80
+    wallJumpDistance: 6
+    wallJumpHeight: 10
+    wallJumpDecelerationRate: 2
+    overallMovementSpeed: 2
+    forwardMovementSpeedMultiple: 0.85
+    sideMovementSpeedMultiple: 0.85
+    backMovementSpeedMultiple: 0.75
+    rotationSpeedMultiple: 0
+    distanceToKeepFromWallWhenOnWall: 1
+    useWallJumpTimeLimit: 1
+    wallJumpTimeLimit: 2
+    slideDownWalls: 1
+    slideDownSpeed: 8
+    rotationToWallSpeed: 6
+    inputPercentageNeededToWallJump: 50
+    showWallJumpDetectors: 0
+    spaceOnWallNeededToWallJumpUpAmount: 0
+    spaceOnWallNeededToWallJumpHeight: 0
+    spaceOnWallNeededToWallJumpLength: 0
+    spaceOnWallNeededToWallJumpWidth: 0
+    spaceBelowNeededToWallJump: 0
+  attacking:
+    ground:
+      numberAndStrengthOfAttacks:
+      - 1
+      - 1
+      - 2
+      comboTimeLimit: 0.5
+      rememberAttackButtonPresses: 0
+      waitingBeforeAttackingAgain:
+        waitingTime: 0.2
+        waitForAnimationToFinish: 0
+    crouch:
+      allowCrouchAttack: 1
+      crouchAttackStrength: 1
+      timeLimitBetweenCrouchAttacks: 0.5
+    air:
+      numberAndStrengthOfMidAirAttacks:
+      - 1
+      onlyAllowAttackOnceInMidAir: 1
+      comboTimeLimit: 0.5
+      rememberAttackButtonPresses: 0
+      waitingBeforeAttackingAgain:
+        waitingTime: 0.2
+        waitForAnimationToFinish: 0
+    attackInputButton: Fire1
+  climbing:
+  - climbableTag: Ladder
+    climbVertically: 1
+    climbHorizontally: 0
+    climbMovementSpeed: 4
+    climbRotationSpeed: 10
+    snapToCenterOfObject: 1
+    moveInBursts: 1
+    burstLength: 1
+    stayUpright: 0
+    distanceToPushOffAfterLettingGo: 0.5
+    rotationToClimbableObjectSpeed: 6
+    showClimbingDetectors: 0
+    climbingSurfaceDetectorsUpAmount: 0
+    climbingSurfaceDetectorsHeight: 0
+    climbingSurfaceDetectorsLength: 0
+    showEdgeOfObjectDetctors: 0
+    topNoSurfaceDetectorHeight: 0
+    bottomNoSurfaceDetectorHeight: 0
+    topAndBottomNoSurfaceDetectorsWidth: 0
+    sideNoSurfaceDetectorsHeight: 0
+    sideNoSurfaceDetectorsWidth: 0
+    stopAtSides: 1
+    dropOffAtBottom: 0
+    dropOffAtFloor: 1
+    pullUpAtTop: 1
+    pullUpSpeed: 4
+    showPullUpDetector: 0
+    pullUpLocationForward: 0
+    walkingOffOfClimbableSurface:
+      allowGrabbingOnAfterWalkingOffLedge: 1
+      showWalkingOffLedgeRays: 0
+      spaceInFrontNeededToGrabBackOn: 0
+      spaceBelowNeededToGrabBackOnHeight: 0
+      spaceBelowNeededToGrabBackOnForward: 0
+      firstSideLedgeDetectorsHeight: 0
+      secondSideLedgeDetectorsHeight: 0
+      thirdSideLedgeDetectorsHeight: 0
+      sideLedgeDetectorsWidth: 0
+      sideLedgeDetectorsLength: 0
+      grabBackOnLocationHeight: 0
+      grabBackOnLocationWidth: 0
+      grabBackOnLocationForward: 0
+    scriptsToEnableOnGrab: []
+    scriptsToDisableOnGrab:
+    - LedgeClimbController
+    pushAgainstWallIfPlayerIsStuck: 1
+  - climbableTag: Vines
+    climbVertically: 1
+    climbHorizontally: 1
+    climbMovementSpeed: 4
+    climbRotationSpeed: 10
+    snapToCenterOfObject: 0
+    moveInBursts: 1
+    burstLength: 1
+    stayUpright: 0
+    distanceToPushOffAfterLettingGo: 0.5
+    rotationToClimbableObjectSpeed: 6
+    showClimbingDetectors: 0
+    climbingSurfaceDetectorsUpAmount: 0
+    climbingSurfaceDetectorsHeight: 0
+    climbingSurfaceDetectorsLength: 0
+    showEdgeOfObjectDetctors: 0
+    topNoSurfaceDetectorHeight: 0
+    bottomNoSurfaceDetectorHeight: 0
+    topAndBottomNoSurfaceDetectorsWidth: 0
+    sideNoSurfaceDetectorsHeight: 0
+    sideNoSurfaceDetectorsWidth: 0
+    stopAtSides: 1
+    dropOffAtBottom: 0
+    dropOffAtFloor: 1
+    pullUpAtTop: 1
+    pullUpSpeed: 4
+    showPullUpDetector: 0
+    pullUpLocationForward: 0
+    walkingOffOfClimbableSurface:
+      allowGrabbingOnAfterWalkingOffLedge: 1
+      showWalkingOffLedgeRays: 0
+      spaceInFrontNeededToGrabBackOn: 0
+      spaceBelowNeededToGrabBackOnHeight: 0
+      spaceBelowNeededToGrabBackOnForward: 0
+      firstSideLedgeDetectorsHeight: 0
+      secondSideLedgeDetectorsHeight: 0
+      thirdSideLedgeDetectorsHeight: 0
+      sideLedgeDetectorsWidth: 0
+      sideLedgeDetectorsLength: 0
+      grabBackOnLocationHeight: 0
+      grabBackOnLocationWidth: 0
+      grabBackOnLocationForward: 0
+    scriptsToEnableOnGrab: []
+    scriptsToDisableOnGrab:
+    - LedgeClimbController
+    pushAgainstWallIfPlayerIsStuck: 1
+  swimming:
+    allowSwimming: 1
+    swimMovementSpeed: 6
+    accelerationRate: 6
+    decelerationRate: 4
+    swimRotationSpeed: 6
+    ySwimmingRotationMaxLimit: 70
+    ySwimmingRotationMinLimit: -80
+    yIdleRotationMaxLimit: 40
+    yIdleRotationMinLimit: -50
+    idleFloatingDirection: {x: 0, y: 0, z: 0}
+    invertXRotation: 0
+    invertYRotation: 0
+    angleNeededToJumpOut: 39
+    jumpInHeight: 0
+    jumpOutHeight: 0
+    walkOutHeight: 0
+    allowColliderRotationByUsingRigidbody: 1
+    firstPerson:
+      allowMovement: 1
+      allowShiftingWithJoystick: 1
+      joystickMovementSpeed: 4
+      joystickDecelerationSpeed: 3
+      cameraAngleOffset: 0
+      rotationLimitsIfMovementIsNotAllowed:
+        yMinLimit: -68
+        yMaxLimit: 68
+        xMinLimit: -68
+        xMaxLimit: 68
+    scriptsToEnableOnEnter: []
+    scriptsToDisableOnEnter:
+    - LedgeClimbController
+    splashEffect: {fileID: 122418, guid: b19aff1bcf26e1e449a2475b175f3254, type: 3}
+  movingPlatforms:
+    allowMovingPlatformSupport: 1
+    movingPlatformTag: Platform
+  climbableTag2: 
+  bodyRotation: 0
+  crouching: 0
+  crouchCancelsAttack: 0
+  colliderBottom: {x: 0, y: 0, z: 0}
+  colliderTop: {x: 0, y: 0, z: 0}
+  colliderBottom2: {x: 0, y: 0, z: 0}
+  colliderTop2: {x: 0, y: 0, z: 0}
+  canCrouchToAction: 0
+  firstPersonButtonPressed: 0
+  firstPersonStart: 0
+  inFirstPersonMode: 0
+  attackFinishedLastUpdate: 0
+  currentlyOnWall: 0
+  turningToWall: 0
+  currentlyClimbingWall: 0
+  wallIsClimbable: 0
+  climbableWallInFront: 0
+  finishedRotatingToWall: 0
+  fifthTest: 0
+  turnBack: 0
+  back2: 0
+  rotationHit: {x: 0, y: 0, z: 0}
+  horizontalValue: 1
+  inWater: 0
+  outOfWaterTimer: 5
+  currentHeadPosition: 0
+  currentFeetPosition: 0
+  rbHeadPositionInWater2: 0
+  rbFeetPositionInWater2: 0
+  xDeg: 0
+  yDeg: 0
+  noCollisionWithWaterTimer: 5
+  oldParent: {fileID: 0}
+  emptyObject: {fileID: 0}
+  collisionLayers:
+    serializedVersion: 2
+    m_Bits: 4294967291
+--- !u!114 &242582230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2091760123698313556}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84f596ce59cbb34e9e28a94138c73d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerCamera: {fileID: 0}
+  itemList:
+  - itemTag: Coin
+    itemUI: {fileID: 21300000, guid: 11d24d224a5e118479188f52df78021e, type: 3}
+    uIPosition: {x: 7, y: 163, z: 1}
+    uIScale: {x: 60, y: 60}
+    font: {fileID: 12800000, guid: 6967d91b1e889904ea2227cb56c3543e, type: 3}
+    fontSize: 72
+    outlineSize: 19
+    fontColor: {r: 0.97647065, g: 0.87843144, b: 0.12941177, a: 1}
+    outlineColor: {r: 0, g: 0, b: 0, a: 1}
+    itemCountPrefix: 
+    itemCountSuffix: 
+    useItemLimit: 1
+    maximumItemLimit: 99
+    addZerosBeforeItemCount: 1
+    uITextPosition: {x: 82, y: -3}
+    currentValue: 0
+    itemCount: 
+    item: {fileID: 0}
+    text: {fileID: 0}
+    textValueX: 0
+    textValueY: 0
+    textValueX2: 0
+    textValueY2: 0
+    textPos: {x: 0, y: 0, z: 0}
+    itemHolder: {fileID: 0}
+    anchorMin: {x: 0, y: 0}
+--- !u!114 &242582231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2091760123698313556}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2079c0398937f4fad92e12a6d0d31b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health:
+    numberOfHearts: 3
+    maxHeartsPerRow: 8
+    regainHealthOverTime: 0
+    quartersOfHealthToRegain: 2
+    timeNeededToRegainHealth: 7
+    healthUI:
+      heartSprites:
+      - {fileID: 21300000, guid: e7906a3cc83ac6b4d8e3db452c77e111, type: 3}
+      - {fileID: 21300000, guid: a94a66e189c0cbc428cd38b5bd647c63, type: 3}
+      - {fileID: 21300000, guid: 4a12789a417a6ac458ee93f7a312746d, type: 3}
+      - {fileID: 21300000, guid: e4901ba177555444e96d11e76c18f21e, type: 3}
+      - {fileID: 21300000, guid: 99f44efe2e1ea3a41a3d772d8aa81ca6, type: 3}
+      overlayHearts: 1
+      uISpacing: {x: 1, y: 1}
+      uIPosition: {x: 8, y: 188, z: 0}
+      uIScale: {x: 73, y: 73}
+    debugHealth: 0
+  damage:
+    enemyDamage:
+      enemyTag: Enemy
+      secondsToStayInvincibleAfterAttacking: 0.7
+      secondsToStayInvincibleAfterBeingHurt: 1
+    fallDamage:
+      receiveFallDamage: 1
+      minimumFallSpeedToReceiveDamage: 4
+      minimumReceivableDamage: 2
+      speedDamageMultiple: 6
+      maxGroundedDistance: 0.2
+      collisionLayers:
+        serializedVersion: 2
+        m_Bits: 4294967275
+    damageBlinkSpeed: 0.1
+  respawn:
+    respawnLocation: {x: 0, y: 0, z: 0}
+    respawnRotation: {x: 0, y: 0, z: 0}
+    respawnAtStartLocationAndRotation: 1
+  healthItems:
+  - healthItemTag: Heart
+    quartersOfHealthToRegain: 4
+  damageItems:
+  - damageItemTag: Hurt
+    quartersOfHealthToLose: 2
+  currentHealth: 0
+  canDamage: 1
+  canDamage2: 1
+  applyDamage: 0
+  blink: 0
+  enemyAttackPower: 2
+  respawnLocation: {x: 0, y: 0, z: 0}
+  respawnRotation: {x: 0, y: 0, z: 0, w: 0}
